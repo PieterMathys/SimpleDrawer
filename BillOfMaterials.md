@@ -2,5 +2,5 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Drawer Slide 24 inches|1|$460.00|https://www.mcmaster.com/11435A14/|
-|Total: |1|$460.00| |
+|Drawer Slide 13 inches|1|$130.00|https://www.mcmaster.com/11435A14/|
+|Total: |1|$130.00| |

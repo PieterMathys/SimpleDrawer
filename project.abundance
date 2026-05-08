@@ -7,22 +7,23 @@
   "ioValues": [
     {
       "name": "Depth",
-      "ioValue": 24,
-      "currentEquation": "24"
+      "ioValue": 13,
+      "currentEquation": "13"
     },
     {
       "name": "Height",
-      "ioValue": 5.5,
-      "currentEquation": "5.5"
+      "ioValue": 2.5,
+      "currentEquation": "2.5"
     },
     {
       "name": "Width",
-      "ioValue": 18,
-      "currentEquation": "18"
+      "ioValue": 20,
+      "currentEquation": "20"
     },
     {
       "name": "Thickness",
-      "ioValue": 0.5
+      "ioValue": 0.5,
+      "currentEquation": "0.5"
     }
   ],
   "topLevel": true,
@@ -75,7 +76,7 @@
       "ioValues": [
         {
           "name": "x length",
-          "ioValue": 24,
+          "ioValue": 13,
           "currentEquation": "Depth"
         },
         {
@@ -101,7 +102,7 @@
         },
         {
           "name": "yDist",
-          "ioValue": -8.75,
+          "ioValue": -9.75,
           "currentEquation": "-0.5 * (Width - Thickness)"
         },
         {
@@ -126,7 +127,7 @@
         },
         {
           "name": "yDist",
-          "ioValue": 8.75,
+          "ioValue": 9.75,
           "currentEquation": "0.5 * (Width - Thickness)"
         },
         {
@@ -167,7 +168,7 @@
         },
         {
           "name": "height",
-          "ioValue": 5.5,
+          "ioValue": 2.5,
           "currentEquation": "Height"
         }
       ]
@@ -196,7 +197,7 @@
       "ioValues": [
         {
           "name": "x length",
-          "ioValue": 18,
+          "ioValue": 20,
           "currentEquation": "Width"
         },
         {
@@ -242,7 +243,7 @@
         },
         {
           "name": "xDist",
-          "ioValue": -11.75,
+          "ioValue": -6.25,
           "currentEquation": "-0.5 * (Depth - Thickness)"
         },
         {
@@ -267,7 +268,7 @@
         },
         {
           "name": "xDist",
-          "ioValue": 11.75,
+          "ioValue": 6.25,
           "currentEquation": "0.5 * (Depth - Thickness)"
         },
         {
@@ -308,7 +309,7 @@
         },
         {
           "name": "height",
-          "ioValue": 5.5,
+          "ioValue": 2.5,
           "currentEquation": "Height"
         }
       ]
@@ -344,43 +345,43 @@
       "placements": [
         [
           {
-            "id": 3,
+            "id": 0,
             "rotate": 270,
             "translate": {
-              "x": 1.6500000000000021,
-              "y": 12.4
+              "x": 8.9,
+              "y": 3.1500000000000026
             }
           },
           {
-            "id": 0,
+            "id": 3,
             "rotate": 180,
             "translate": {
-              "x": 4.950000000000007,
-              "y": 8.899999975050761
+              "x": 12.4,
+              "y": 9.449999999999998
             }
           },
           {
             "id": 2,
             "rotate": 270,
             "translate": {
-              "x": 8.250000000000012,
-              "y": 12.4
-            }
-          },
-          {
-            "id": 1,
-            "rotate": 270,
-            "translate": {
-              "x": 8.900000024949238,
-              "y": 26.449999999999996
+              "x": 3.150000024949238,
+              "y": 25
             }
           },
           {
             "id": 4,
-            "rotate": 180,
+            "rotate": 270,
             "translate": {
-              "x": 12.149999999999999,
-              "y": 37.24999999999999
+              "x": 15.45000002494924,
+              "y": 24.75
+            }
+          },
+          {
+            "id": 1,
+            "rotate": 90,
+            "translate": {
+              "x": 15.200000024949237,
+              "y": 40.050000000000004
             }
           }
         ]
@@ -433,7 +434,7 @@
         },
         {
           "name": "yDist",
-          "ioValue": -9.25,
+          "ioValue": -10.25,
           "currentEquation": "-0.5 * Width - 0.25"
         },
         {
@@ -458,7 +459,7 @@
         },
         {
           "name": "yDist",
-          "ioValue": 9.25,
+          "ioValue": 10.25,
           "currentEquation": "0.5 * Width + 0.25"
         },
         {
@@ -531,7 +532,7 @@
       "ioValues": [
         {
           "name": "Length",
-          "ioValue": 24,
+          "ioValue": 13,
           "currentEquation": "Depth"
         }
       ],
@@ -564,7 +565,7 @@
           "ioValues": [
             {
               "name": "x length",
-              "ioValue": 24
+              "ioValue": 13
             },
             {
               "name": "y length",
@@ -624,7 +625,7 @@
             },
             {
               "name": "xDist",
-              "ioValue": -10.620000000000001,
+              "ioValue": -5.12,
               "currentEquation": "-1 * Length / 2 + 1.38"
             },
             {
@@ -746,7 +747,7 @@
           "ioValues": [
             {
               "name": "x length",
-              "ioValue": 24
+              "ioValue": 13
             },
             {
               "name": "y length",
@@ -889,7 +890,7 @@
             },
             {
               "name": "Item Name",
-              "ioValue": "Drawer Slide 24 inches",
+              "ioValue": "Drawer Slide 13 inches",
               "currentEquation": "New Item"
             },
             {
@@ -898,7 +899,7 @@
             },
             {
               "name": "Cost (USD)",
-              "ioValue": 230
+              "ioValue": 65
             },
             {
               "name": "Source Link",
@@ -907,9 +908,9 @@
             }
           ],
           "BOMitem": {
-            "BOMitemName": "Drawer Slide 24 inches",
+            "BOMitemName": "Drawer Slide 13 inches",
             "numberNeeded": 0.5,
-            "costUSD": 230,
+            "costUSD": 65,
             "source": "https://www.mcmaster.com/11435A14/"
           }
         },
@@ -922,7 +923,7 @@
           "ioValues": [
             {
               "name": "l",
-              "ioValue": 24
+              "ioValue": 13
             }
           ],
           "currentEquation": "\"Drawer Slide \" + l + \" inches\""
@@ -936,7 +937,7 @@
           "ioValues": [
             {
               "name": "l",
-              "ioValue": 24
+              "ioValue": 13
             }
           ],
           "currentEquation": "(l - 10) * 15 + 20"
@@ -1489,12 +1490,12 @@
       "ioValues": [
         {
           "name": "base_width",
-          "ioValue": 17.5,
+          "ioValue": 19.5,
           "currentEquation": "Width - Thickness"
         },
         {
           "name": "base_depth",
-          "ioValue": 23.5,
+          "ioValue": 12.5,
           "currentEquation": "Depth - Thickness"
         },
         {
@@ -1546,12 +1547,12 @@
           "ioValues": [
             {
               "name": "x length",
-              "ioValue": 23.5,
+              "ioValue": 12.5,
               "currentEquation": "base_depth"
             },
             {
               "name": "y length",
-              "ioValue": 17.5,
+              "ioValue": 19.5,
               "currentEquation": "base_width"
             }
           ]
@@ -1668,7 +1669,7 @@
                   "ioValue": -0.25
                 }
               ],
-              "codeVersion": 1,
+              "interpreterVersion": 0,
               "code": "const Inputs = [\n  { inputName: \"shape\", type: \"geometry\", defaultValue: null },\n  { inputName: \"distance\", type: \"number\", defaultValue: 1 },\n];\n\nreturn await AssemblyMap(library[shape], async (leaf) => {\n  const drawing = leaf.geometry[0];\n  return {\n    ...leaf,\n    geometry: [drawing.offset(distance)]\n  };\n});\n"
             },
             {

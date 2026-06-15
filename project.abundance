@@ -7,7 +7,8 @@
   "ioValues": [
     {
       "name": "Depth",
-      "ioValue": 13
+      "ioValue": 13,
+      "currentEquation": "13"
     },
     {
       "name": "Height",
@@ -2311,7 +2312,7 @@
       "ap2ID": "id-564"
     }
   ],
-  "unitsKey": "Inches",
+  "unitsKey": "MM",
   "fileTypeVersion": 1,
   "filetypeVersion": 1
 }
